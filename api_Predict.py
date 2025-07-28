@@ -14,112 +14,112 @@ MEDICAL_DB = {
     "medications": ["Paracetamol", "Rest", "Hydration"],
     "advice": "Stay home, rest, and drink plenty of fluids.",
     "risk": "Moderate",
-    "severity": "Mild"
+    "severity": "Mild",
   },
   "chills": {
     "symptoms": ["Chills", "Fever", "Body Weakness"],
     "medications": ["Paracetamol", "Warm fluids", "Rest"],
     "advice": "Keep warm, monitor temperature, and drink plenty of fluids.",
     "risk": "Low",
-    "severity": "Mild"
+    "severity": "Mild",
   },
   "sore_throat": {
     "symptoms": ["Throat itchiness", "Cough and colds", "Fever"],
     "medications": ["Lozenges", "Salt water gargle", "Paracetamol"],
     "advice": "Avoid cold drinks and rest the voice.",
     "risk": "Low",
-    "severity": "Mild"
+    "severity": "Mild",
   },
   "respiratory_distress": {
     "symptoms": ["Difficulty of Breathing", "Chest heaviness", "Hyperventilation"],
     "medications": ["Oxygen therapy", "Bronchodilators", "Nebulization"],
     "advice": "Seek immediate medical attention.",
     "risk": "High",
-    "severity": "Severe"
+    "severity": "Severe",
   },
   "dysphagia": {
     "symptoms": ["Dysphagia", "Throat itchiness", "Cough and colds"],
     "medications": ["Soft diet", "Warm fluids", "Medical consultation"],
     "advice": "Eat slowly and consult a doctor if persistent.",
     "risk": "Moderate",
-    "severity": "Moderate"
+    "severity": "Moderate",
   },
   "migraine": {
     "symptoms": ["Headache", "Nape Pain", "Dizziness"],
     "medications": ["Ibuprofen", "Caffeine", "Cold compress"],
     "advice": "Stay in a quiet, dark room. Avoid known triggers.",
     "risk": "Low",
-    "severity": "Moderate"
+    "severity": "Moderate",
   },
   "unconsciousness": {
     "symptoms": ["LOC", "Dizziness", "Vehucular Accident"],
     "medications": ["Oxygen", "Hospital observation", "IV fluids"],
     "advice": "Call emergency services immediately.",
     "risk": "High",
-    "severity": "Severe"
+    "severity": "Severe",
   },
   "eye_allergy": {
     "symptoms": ["Eye Itchiness/redness", "Swelling eye lid"],
     "medications": ["Antihistamine drops", "Cold compress", "Avoid allergens"],
     "advice": "Do not rub eyes. Rinse with clean water if irritated.",
     "risk": "Low",
-    "severity": "Mild"
+    "severity": "Mild",
   },
   "ear_infection": {
     "symptoms": ["Ear pain", "Fever", "Headache"],
     "medications": ["Antibiotics", "Paracetamol", "Ear drops"],
     "advice": "Avoid inserting objects into the ear. Seek medical attention.",
     "risk": "Moderate",
-    "severity": "Moderate"
+    "severity": "Moderate",
   },
   "chest_pain": {
     "symptoms": ["Chest heaviness", "Palpitation", "Hyperventilation"],
     "medications": ["Aspirin", "Oxygen", "ECG evaluation"],
     "advice": "Rest and seek emergency care immediately.",
     "risk": "High",
-    "severity": "Severe"
+    "severity": "Severe",
   },
   "toothache": {
     "symptoms": ["Toothache", "Headache", "Dizziness"],
     "medications": ["Mefenamic acid", "Saltwater rinse", "Dental consultation"],
     "advice": "Avoid cold or sweet foods. Visit a dentist.",
     "risk": "Low",
-    "severity": "Mild"
+    "severity": "Mild",
   },
   "dizziness": {
     "symptoms": ["Dizziness", "Nausea and vomiting", "LOC"],
     "medications": ["Meclizine", "Hydration", "Rest"],
     "advice": "Avoid sudden movements. Sit or lie down immediately if dizzy.",
     "risk": "Moderate",
-    "severity": "Mild"
+    "severity": "Mild",
   },
   "gastritis": {
     "symptoms": ["Epigastric pain", "Nausea and vomiting", "Abdominal pain/RLQ Pain/LLQ"],
     "medications": ["Antacids", "Omeprazole", "Diet modification"],
     "advice": "Avoid acidic foods. Eat small, frequent meals.",
     "risk": "Low",
-    "severity": "Mild"
+    "severity": "Mild",
   },
   "abdominal_pain": {
     "symptoms": ["Abdominal pain/RLQ Pain/LLQ", "Fever", "Nausea and vomiting"],
     "medications": ["Buscopan", "IV fluids", "Observation"],
     "advice": "Avoid solid food. Seek medical care if persistent.",
     "risk": "Moderate",
-    "severity": "Varies"
+    "severity": "Varies",
   },
   "uti": {
     "symptoms": ["Hypogastric pain", "Dysuria", "Body Weakness"],
     "medications": ["Antibiotics", "Cranberry juice", "Pain relievers"],
     "advice": "Increase fluid intake. Complete antibiotic course.",
     "risk": "Moderate",
-    "severity": "Moderate"
+    "severity": "Moderate",
   },
   "lymphadenitis": {
     "symptoms": ["Swelling armpit", "Fever", "Body pain"],
     "medications": ["Antibiotics", "Warm compress", "Pain relievers"],
     "advice": "Monitor for fever. Seek care for persistent swelling.",
     "risk": "Moderate",
-    "severity": "Mild"
+    "severity": "Mild",
   },
   "palpitations": {
     "symptoms": ["Palpitation", "Dizziness", "Chest heaviness"],
@@ -133,42 +133,42 @@ MEDICAL_DB = {
     "medications": ["Pain relievers", "Massage", "Hot compress"],
     "advice": "Rest affected area. Avoid strenuous activity.",
     "risk": "Low",
-    "severity": "Mild"
+    "severity": "Mild",
   },
   "diarrhea": {
     "symptoms": ["LBM/diarrhea", "Abdominal pain/RLQ Pain/LLQ", "Body Weakness"],
     "medications": ["ORS", "Loperamide", "Zinc supplements"],
     "advice": "Rehydrate regularly. Avoid greasy food.",
     "risk": "Moderate",
-    "severity": "Mild"
+    "severity": "Mild",
   },
   "constipation": {
     "symptoms": ["Constipation", "Abdominal pain/RLQ Pain/LLQ", "Hypogastric pain"],
     "medications": ["Laxatives", "High-fiber diet", "Water"],
     "advice": "Increase fiber intake and exercise regularly.",
     "risk": "Low",
-    "severity": "Mild"
+    "severity": "Mild",
   },
   "pregnancy": {
     "symptoms": ["Pregnancy", "Nausea and vomiting", "Abdominal pain/RLQ Pain/LLQ"],
     "medications": ["Prenatal vitamins", "Iron", "Folic acid"],
     "advice": "Attend prenatal check-ups regularly.",
     "risk": "Low",
-    "severity": "Normal"
+    "severity": "Normal",
   },
   "fatigue": {
     "symptoms": ["Body Weakness", "Dizziness", "Palpitation"],
     "medications": ["Vitamins", "Rest", "Iron supplements"],
     "advice": "Get enough sleep and eat nutritious food.",
     "risk": "Low",
-    "severity": "Mild"
+    "severity": "Mild",
   },
   "vehicular_accident": {
     "symptoms": ["Vehucular Accident", "LOC", "Laceration"],
     "medications": ["Wound care", "CT scan", "Pain relievers"],
     "advice": "Do not move the injured. Call emergency services immediately.",
     "risk": "High",
-    "severity": "Severe"
+    "severity": "Severe",
   },
   "rashes": {
     "symptoms": ["Rashes", "Skin itchiness", "Body Weakness"],
@@ -182,35 +182,35 @@ MEDICAL_DB = {
     "medications": ["Anti-rabies vaccine", "Antibiotics", "Wound care"],
     "advice": "Clean the bite with soap and water. Get vaccinated promptly.",
     "risk": "High",
-    "severity": "Moderate"
+    "severity": "Moderate",
   },
   "foot_pain": {
     "symptoms": ["Foot pain", "Swelling", "Body Weakness"],
     "medications": ["Pain relievers", "Rest", "Cold compress"],
     "advice": "Avoid standing for long. Use proper footwear.",
     "risk": "Low",
-    "severity": "Mild"
+    "severity": "Mild",
   },
   "laceration": {
     "symptoms": ["Laceration", "Bleeding", "Swelling"],
     "medications": ["Antiseptic", "Wound dressing", "Pain relievers"],
     "advice": "Apply pressure to stop bleeding. Keep wound clean.",
     "risk": "Moderate",
-    "severity": "Moderate"
+    "severity": "Moderate",
   },
   "punctured_wound": {
     "symptoms": ["Punctured wound", "Pain", "Swelling"],
     "medications": ["Tetanus shot", "Antibiotics", "Wound cleaning"],
     "advice": "Wash with soap and water. Do not remove embedded objects.",
     "risk": "High",
-    "severity": "Moderate"
+    "severity": "Moderate",
   },
   "burn": {
     "symptoms": ["Burn", "Pain", "Swelling"],
     "medications": ["Cold water", "Burn ointment", "Paracetamol"],
     "advice": "Cool the area. Do not apply ice or toothpaste.",
     "risk": "Moderate",
-    "severity": "Varies"
+    "severity": "Varies",
   }
 }
 
