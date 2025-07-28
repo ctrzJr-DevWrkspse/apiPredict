@@ -236,7 +236,7 @@ app = Flask(__name__)
 CORS(app)
 
 df, mlb, le = create_training_data()
-model = RandomForestClassifier(n_estimators=900)
+model = RandomForestClassifier(n_estimators=200)
 model.fit(df.drop('disease', axis=1), df['disease'])
 
 @app.route('/predict', methods=['POST'])
